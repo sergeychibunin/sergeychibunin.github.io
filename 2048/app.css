@@ -1,0 +1,16 @@
+.tile {
+width: 50px;
+height: 35px;
+text-align: center;
+padding-top: 15px;
+border: 1px;
+border-color: black;
+border-style: solid;
+position: absolute;
+}
+#board {
+width: 208px;
+height: 208px;
+background-color: #e5e5e5;
+position: relative;
+}
